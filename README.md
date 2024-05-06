@@ -1,1 +1,13 @@
-# task_4_9_1_HW_03
+# Задание 4.9.1 (HW-03)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.w3.org/TR/2021/SPSD-html52-20210128/"><img src="./images/html.png"></img></a>
+    </td>
+    <td>
+      Учебное задание 4.9.1 (HW-03) <a href="https://skillfactory.ru/">Skillfactory</a><br> 
+      Выполнил студент <a href="https://github.com/Vlad-Miroshin">Владислав Мирошин</a> поток PHPPRO_22 
+    </td>
+  </tr>
+</table>
